@@ -45,7 +45,7 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.haanh764.image_processing"
-        minSdkVersion flutter.minSdkVersion
+        minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
@@ -68,7 +68,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.google.android.gms:play-services-vision:20.0.0'
 
-    implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
-    implementation 'com.google.firebase:firebase-ml-vision-barcode-model:16.1.1'
-    implementation 'com.google.firebase:firebase-ml-vision-image-label-model:20.0.1'
+    // implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
+    // implementation 'com.google.firebase:firebase-ml-vision-barcode-model:16.1.1'
+    // implementation 'com.google.firebase:firebase-ml-vision-image-label-model:20.0.1'
 }
