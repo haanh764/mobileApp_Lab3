@@ -1,4 +1,4 @@
-# Mobile and Multimedia System Lab 2 - Task Manager Application
+# Mobile and Multimedia System Lab 3 - Image Processing Application
 
 <img src="./imgs/ocr.jpg" width="150"> &nbsp; <img src="./imgs/place.jpg" width="150"> &nbsp; <img src="./imgs/plant.jpg" width="150"> &nbsp; <img src="./imgs/food.jpg" width="150"> &nbsp;
 <img src="./imgs/home_good.jpg" width="150"> &nbsp; <img src="./imgs/fashion_good.jpg" width="150"> &nbsp;
